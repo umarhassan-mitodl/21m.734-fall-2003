@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Performance Arts",
+      "Theatrical Design"
+    ]
+  ],
+  "legacy_uid": "3e415e42-ff33-51c0-bb74-3a14c198024f",
+  "instructors": {
+    "content": [
+      "2489fba5-c987-29a1-b185-76ad313f979d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b671726f-5db1-5ab3-afed-0ad5ad969af3",
+    "website": "21m-734-lighting-design-for-the-theatre-fall-2003"
+  },
+  "course_title": "Lighting Design for the Theatre",
+  "course_description": "This class explores the artistry of Lighting Design. Students gain an overall technical working knowledge of the tools of the trade, and learn how, and where to apply them to a final design. However essential technical expertise is, the class stresses the artistic, conceptual, collaborative side of the craft. The class format is a \"hands on\" approach, with a good portion of class time spent in a theatre.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.734",
+  "course_image_thumbnail": {
+    "content": "4c8c8f36-87e7-8ce2-a8c5-2e24f0538fd4",
+    "website": "21m-734-lighting-design-for-the-theatre-fall-2003"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "36be5b2a-cc34-4412-bcf1-058746a5deb5",
+  "site_short_id": "21m.734-fall-2003",
+  "site_url_path": "courses/21m-734-lighting-design-for-the-theatre-fall-2003",
+  "title": "Course Metadata"
+}
